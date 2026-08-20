@@ -13,7 +13,7 @@
 #
 # --- Configure here ---
 TARGETS="8.8.8.8 8.8.4.4"
-LOG_FILE="/var/log/ping-monitor/ping.log"
+LOG_FILE="/var/log/ping-monitor/pingsh.log"
 TIMEOUT=2
 # -----------------------
 
